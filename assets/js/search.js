@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "https://aastroza.github.io/about/",
     "title": "About Me",
-    "body": "I’m a Machine Learning Engineer / Data Scientist living in Santiago, Chile. You can see my resume and projects here format. This website is powered by fastpages 1.       a blogging platform that natively supports Jupyter notebooks in addition to other formats.  &#8617;    "
+    "body": "I’m a Machine Learning Engineer / Data Scientist living in Santiago, Chile. You can see my resume and projects here. This website is powered by fastpages 1.       a blogging platform that natively supports Jupyter notebooks in addition to other formats.  &#8617;    "
     }, {
     "id": 2,
     "url": "https://aastroza.github.io/categories/",
