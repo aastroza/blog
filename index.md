@@ -8,7 +8,6 @@ search: exclude
 
 Personal blog about things that I am passionate about: Machine Learning and Card Games.
 
-![](images/diagram.png)
 
 
 # Posts
